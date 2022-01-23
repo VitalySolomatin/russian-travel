@@ -1,0 +1,31 @@
+.places__url-heading {
+    width: 456px;
+    max-height: 12px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 2px;
+    color: #AAAAAA;
+    margin-bottom: 12px;
+}
+
+@media screen and (max-width: 768px) {
+    .places__url-heading {
+        max-width: 352px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .places__url-heading {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places__url-heading {
+        max-width: 288px;
+        margin: 0 16px 12px;
+    }
+}

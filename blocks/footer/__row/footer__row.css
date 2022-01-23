@@ -1,0 +1,15 @@
+.footer__row {
+    display: flex;
+}
+
+@media screen and (max-width: 510px) {
+    .footer__row {
+        flex-direction: column;
+        margin-top: 32px;
+    }
+
+    .footer__row:first-of-type {
+        margin-top: 0;
+    }
+
+}
