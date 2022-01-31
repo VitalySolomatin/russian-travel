@@ -5,7 +5,7 @@
     grid-column: 1/2;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1150px) {
     .places__image {
         width: 100%;
     }

@@ -2,7 +2,7 @@
     display: flex;
 }
 
-@media screen and (max-width: 510px) {
+@media screen and (max-width: 750px) {
     .footer__row {
         flex-direction: column;
         margin-top: 32px;

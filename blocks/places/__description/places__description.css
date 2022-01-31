@@ -1,16 +1,12 @@
 .places__description {
-    font-family: Inter, "Helvetica Neue", Arial, sans-serif;
-    font-style: normal;
-    font-weight: normal;
     font-size: 18px;
     line-height: 163%;
-    color: #FFFFFF;
     margin: 0;
     margin-bottom: 26px;
     width: 484px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1150px) {
     .places__description {
         max-width: 456px;
     }

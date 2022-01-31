@@ -10,7 +10,7 @@
     margin-bottom: 48px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1150px) {
     .places__title {
         max-width: 440px;
     }

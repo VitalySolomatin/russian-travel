@@ -1,6 +1,6 @@
 .footer {
     max-width: 1184px;
-    max-height: 18px;
+    min-height: 18px;
     display: grid;
     align-self: stretch;
     grid-auto-flow: column;
@@ -28,7 +28,7 @@
 }
 
 
-@media screen and (max-width: 510px) {
+@media screen and (max-width: 750px) {
     .footer {
         max-width: 186px;
         max-height: 310px;
